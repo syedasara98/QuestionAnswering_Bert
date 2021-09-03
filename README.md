@@ -1,2 +1,2 @@
 # QuestionAnswering_Bert
-Question Answering using BERT Model
+from transformers import BertForQuestionAnswering, AutoTokenizer
